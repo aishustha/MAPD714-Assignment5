@@ -16,6 +16,7 @@
 		61E40D72275081AE001DB583 /* TodoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E40D71275081AE001DB583 /* TodoTests.swift */; };
 		61E40D7C275081AE001DB583 /* TodoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E40D7B275081AE001DB583 /* TodoUITests.swift */; };
 		61E40D7E275081AE001DB583 /* TodoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E40D7D275081AE001DB583 /* TodoUITestsLaunchTests.swift */; };
+		61E40D9127509EB7001DB583 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E40D9027509EB7001DB583 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		61E40D77275081AE001DB583 /* TodoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61E40D7B275081AE001DB583 /* TodoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoUITests.swift; sourceTree = "<group>"; };
 		61E40D7D275081AE001DB583 /* TodoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		61E40D9027509EB7001DB583 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				61E40D63275081AE001DB583 /* Assets.xcassets */,
 				61E40D65275081AE001DB583 /* LaunchScreen.storyboard */,
 				61E40D68275081AE001DB583 /* Info.plist */,
+				61E40D9027509EB7001DB583 /* DetailViewController.swift */,
 			);
 			path = Todo;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				61E40D5F275081AE001DB583 /* ViewController.swift in Sources */,
 				61E40D5B275081AE001DB583 /* AppDelegate.swift in Sources */,
 				61E40D5D275081AE001DB583 /* SceneDelegate.swift in Sources */,
+				61E40D9127509EB7001DB583 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
